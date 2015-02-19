@@ -1,0 +1,20 @@
+{
+  "name": "assignment_2",
+  "version": "0.0.1",
+  "homepage": "https://github.com/binoy14/IS-219-Assignment-2",
+  "authors": [
+    "binoypatel14@gmail.com <binoypatel14@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
